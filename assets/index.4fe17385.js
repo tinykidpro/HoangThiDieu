@@ -561,7 +561,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Chilled Cow"]
+            }), "C\u00F3 Em Ch\u1EDD"]
         })
     }), e(l.div, {
         animate: {
@@ -828,7 +828,7 @@ function ae() {
                         y("//www.youtube.com/embed/qlXoh54zock?autoplay=1&mute=1&start=13"), u("G\u00E1c l\u1EA1i \u00E2u lo"), d("https://www.youtube.com/watch?v=ECxVfrwwTp0"), A("https://www.youtube.com/watch?v=jPCBNH2w3QU&ab_channel=UCICL_FtWS2GuaUxj8uwU2HA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Cow: () => {
-                        y("//www.youtube.com/embed/lTRiuFIWV54?autoplay=1&mute=1&start=1"), u("Chilled Cow"), d("https://www.youtube.com/c/LofiGirl"), A("https://www.youtube.com/watch?v=DWcJFNfaw9c&ab_channel=LofiGirl"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/lTRiuFIWV54?autoplay=1&mute=1&start=20"), u("C\u00F3 Em Ch\u1EDD"), d("https://www.youtube.com/watch?v=_YzngEllRgM"), A("https://www.youtube.com/watch?v=_YzngEllRgM&ab_channel=UCLFOZcEUPlwdc02FHkOpqkA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Spinnin: () => {
                         y("//www.youtube.com/embed/N65Jb683pXQ?autoplay=1&mute=1&start=0"), u("Spinnin' Records"), d("https://www.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA"), A("https://www.youtube.com/watch?v=N65Jb683pXQ&ab_channel=Spinnin%27Records"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
