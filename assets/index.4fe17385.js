@@ -583,7 +583,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Ivy Records"]
+            }), "L\u1EA1c v\u00E0o trong m\u01A1"]
         })
     }), e(l.div, {
         animate: {
@@ -605,7 +605,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "H5G1 Music"]
+            }), "Ch\u1EC9 mu\u1ED1n b\u00EAn em th\u1EADt g\u1EA7n"]
         })
     }), e(l.div, {
         animate: {
@@ -628,7 +628,7 @@ const $ = ({
                 src: g,
                 alt: ""
             }), e("span", {
-                children: " Lofi Girl "
+                children: "Anh \u0111\u00E1nh r\u01A1i ng\u01B0\u1EDDi y\u00EAu n\u00E0y"
             })]
         })
     }), e(l.div, {
@@ -652,7 +652,7 @@ const $ = ({
                 src: g,
                 alt: ""
             }), e("span", {
-                children: " Nice Guys "
+                children: "Sao anh ch\u01B0a v\u1EC1"
             })]
         })
     }), e(l.div, {
@@ -675,7 +675,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Spinnin Records"]
+            }), "M\u1EB7t tr\u1EDDi c\u1EE7a em"]
         })
     }), e(l.div, {
         animate: {
@@ -697,7 +697,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "DNA Fixing"]
+            }), "\u0110\u00E3 l\u1EE1 y\u00EAu em nhi\u1EC1u"]
         })
     }), e(l.div, {
         animate: {
@@ -719,7 +719,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "The Jazz Caf\xE9"]
+            }), "Qu\u1EB1ng l\u1EAFm em \u01A1i"]
         })
     })]
 });
@@ -831,25 +831,25 @@ function ae() {
                         y("//www.youtube.com/embed/lTRiuFIWV54?autoplay=1&mute=1&start=20"), u("C\u00F3 Em Ch\u1EDD"), d("https://www.youtube.com/watch?v=_YzngEllRgM"), A("https://www.youtube.com/watch?v=_YzngEllRgM&ab_channel=UCLFOZcEUPlwdc02FHkOpqkA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Spinnin: () => {
-                        y("//www.youtube.com/embed/N65Jb683pXQ?autoplay=1&mute=1&start=0"), u("Spinnin' Records"), d("https://www.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA"), A("https://www.youtube.com/watch?v=N65Jb683pXQ&ab_channel=Spinnin%27Records"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/DbuebKNKQsQ?autoplay=1&mute=1&start=32"), u("M\u1EB7t tr\u1EDDi c\u1EE7a em"), d("https://www.youtube.com/watch?v=t0WFOnwp3MM"), A("https://www.youtube.com/watch?v=vQbIv7upeUg"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Ivy: () => {
-                        y("//www.youtube.com/embed/F1B9Fk_SgI0?autoplay=1&mute=1&start=10"), u("Ivy Records"), d("https://www.youtube.com/channel/UCv7qaGzuEfLhKxAZf4eZONg"), A("https://www.youtube.com/watch?v=aLqc8TdoLJ0"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/F1B9Fk_SgI0?autoplay=1&mute=1&start=10"), u("L\u1EA1c v\u00E0o trong m\u01A1"), d("https://www.youtube.com/watch?v=S4g2uiFyWJc"), A("https://www.youtube.com/watch?v=q8uhw7A4aVg"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     High: () => {
-                        y("//www.youtube.com/embed/lniKA4QHuxg?autoplay=1&mute=1&start=1"), u("H5G1 Music"), d("https://www.youtube.com/channel/UCIPy2w-XdvaU73L3nAK1-0g"), A("https://www.youtube.com/watch?v=-9gEgshJUuY&ab_channel=lofigeek"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/lniKA4QHuxg?autoplay=1&mute=1&start=1"), u("Ch\u1EC9 mu\u1ED1n b\u00EAn em th\u1EADt g\u1EA7n"), d("https://www.youtube.com/watch?v=Mwj02MxLlBU"), A("https://www.youtube.com/watch?v=Ksw9EjuBBWQ"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Lofi: () => {
-                        y("//www.youtube.com/embed/TURbeWK2wwg?autoplay=1&mute=1&start=1"), u("LofiGirl"), d("https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow"), A("https://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=LofiGirl"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/TURbeWK2wwg?autoplay=1&mute=1&start=20"), u("Anh \u0111\u00E1nh r\u01A1i ng\u01B0\u1EDDi y\u00EAu n\u00E0y"), d("https://www.youtube.com/watch?v=I3RICWXA_3U"), A("https://www.youtube.com/watch?v=w5WCI3NvQ8w"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Study: () => {
-                        y("//www.youtube.com/embed/V3SLbo4s8FM?autoplay=1&mute=1&start=15"), u("DNA Fixing"), d("https://www.youtube.com/channel/UCKA8nI3JBYpWqx2HiiEssNw"), A("https://www.youtube.com/watch?v=iyOKWzlyEjE&ab_channel=PeacefulNightMusic"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/V3SLbo4s8FM?autoplay=1&mute=1&start=30"), u("\u0110\u00E3 l\u1EE1 y\u00EAu em nhi\u1EC1u"), d("https://www.youtube.com/watch?v=KhTCatAKVpk"), A("https://www.youtube.com/watch?v=ubpcDnfr4ec"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Jazz: () => {
-                        y("//www.youtube.com/embed/U8HBZOTZrf0?autoplay=1&mute=1&start=1"), u("theJazz Cafe"), d("https://www.youtube.com/c/TheJazzHopCaf%C3%A9"), A("https://www.youtube.com/watch?v=-5KAN9_CzSA&ab_channel=STEEZYASFUCK"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/U8HBZOTZrf0?autoplay=1&mute=1&start=15"), u("Qu\u1EB1ng l\u1EAFm em \u01A1i"), d("https://www.youtube.com/watch?v=5KcBGdXCfP8"), A("https://www.youtube.com/watch?v=XnFOqLeL0zM"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Nice: () => {
-                        y("//www.youtube.com/embed/3n1aC2TYXIA?autoplay=1&mute=1&start=1"), u("Nice Guys"), d("https://www.youtube.com/channel/UCMmt12UKW571UWtJAgWkWqg"), A("https://www.youtube.com/watch?v=oVi5gtzTDx0&ab_channel=NiceGuys"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/_GWyf-35QHI?autoplay=1&mute=1&start=15"), u("Sao anh ch\u01B0a v\u1EC1"), d("https://www.youtube.com/watch?v=RlBkvjVss-s"), A("https://www.youtube.com/watch?v=qmntxW5kcPI"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     }
                 })
             })]
