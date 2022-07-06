@@ -795,14 +795,14 @@ const te = ({
 var p = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAo0lEQVRoge3aQQqDQBBE0Vp59Zh7ZpJjGAKubAoLUVrIf9BLe1D/TiXc1yTpKektadmZIWler+naW8zBAdv5XdO1t0ie0HY+jXuL5eB07S24AYM3kCIhg4RSJGSQUIqEDBJKkZBBQikSMkgoRUIGCaVIyCChFAkZJJQiIYOEUiRkkFCKhAwS+puExoFDXo17T/kg/WjcW0zrYeOCXw2u2At1+AL6aLqb6eIX8gAAAABJRU5ErkJggg==";
 
 function ae() {
-    const [h, i] = c.exports.useState("PlayPause"), [v, s] = c.exports.useState("playBtn"), [n, t] = c.exports.useState(g), [m, o] = c.exports.useState(!1), [w, r] = c.exports.useState("pauseScreen"), [B, A] = c.exports.useState("https://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=LofiGirl"), [C, u] = c.exports.useState("LofiGirl"), [f, d] = c.exports.useState(""), b = T => {
+    const [h, i] = c.exports.useState("PlayPause"), [v, s] = c.exports.useState("playBtn"), [n, t] = c.exports.useState(g), [m, o] = c.exports.useState(!1), [w, r] = c.exports.useState("pauseScreen"), [B, A] = c.exports.useState("https://www.youtube.com/watch?v=14L5Y5q9XPo"), [C, u] = c.exports.useState("LofiGirl"), [f, d] = c.exports.useState(""), b = T => {
         let S = T.target.className;
         S === "PlayPause" || S === "playBtn" ? (t(p), i("PlayPause2"), s("playBtn2"), F()) : (S === "PlayPause2" || S === "playBtn2") && (t(g), i("PlayPause"), s("playBtn"), P())
     }, F = () => {
         o(!1), o(!0), r("unpauseScreen")
     }, P = () => {
         r("pauseScreen"), o(!1)
-    }, [H, y] = c.exports.useState("//www.youtube.com/embed/TURbeWK2wwg?autoplay=1&mute=1&start=1");
+    }, [H, y] = c.exports.useState("//www.youtube.com/embed/KV84w_QTO18?autoplay=1&mute=1&start=30");
     return a("div", {
         className: "interfaceContainer",
         children: [a("div", {
@@ -849,7 +849,7 @@ function ae() {
                         y("//www.youtube.com/embed/U8HBZOTZrf0?autoplay=1&mute=1&start=15"), u("Qu\u1EB1ng l\u1EAFm em \u01A1i"), d("https://www.youtube.com/watch?v=5KcBGdXCfP8"), A("https://www.youtube.com/watch?v=XnFOqLeL0zM"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Nice: () => {
-                        y("//www.youtube.com/embed/_GWyf-35QHI?autoplay=1&mute=1&start=15"), u("Sao anh ch\u01B0a v\u1EC1"), d("https://www.youtube.com/watch?v=RlBkvjVss-s"), A("https://www.youtube.com/watch?v=qmntxW5kcPI"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/_GWyf-35QHI?autoplay=1&mute=1&start=20"), u("Sao anh ch\u01B0a v\u1EC1"), d("https://www.youtube.com/watch?v=RlBkvjVss-s"), A("https://www.youtube.com/watch?v=qmntxW5kcPI"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     }
                 })
             })]
@@ -942,7 +942,7 @@ const ie = () => {
                     }
                 }), e("div", {
                     className: I(v === !0 ? "checkPass" : "d-none"),
-                    children: "Anh suy ngh\u0129 k\u0129 l\u1EA1i \u0111i"
+                    children: "\u0110\u1ED3 con nh\u1EE3n :))"
                 }), e("div", {
                     class: "note-position-1 note-amination",
                     children: "♫"
