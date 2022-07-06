@@ -473,7 +473,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Ambient Renders"]
+            }), "C\u1EA3m \u01A0n V\u00EC T\u1EA5t C\u1EA3"]
         })
     }), e(l.div, {
         animate: {
@@ -816,7 +816,7 @@ function ae() {
                 className: "radioStationsContainer",
                 children: e($, {
                     Ambient: () => {
-                        y("//www.youtube.com/embed/hBGbt2CRDpA?autoplay=1&mute=1&start=1"), u("Ambient Renders"), d("https://www.youtube.com/channel/UCXbXfisDHV_gDjawCKTyTIw"), A("https://www.youtube.com/watch?v=GlEps1Ra06U&ab_channel=RelaxingAmbienceASMR"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/oFm6rbA5BD8?autoplay=1&mute=1&start=1"), u("C\u1EA3m \u01A0n V\u00EC T\u1EA5t C\u1EA3"), d("https://www.youtube.com/watch?v=5V6bHm1pklA"), A("https://www.youtube.com/watch?v=NCiKdUDdm-g&ab_channel=UCSNZOb1QqDmHakYGRLAY1vw"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Anime: () => {
                         y("//www.youtube.com/embed/5B7Rsw0L2r8?autoplay=1&mute=1&start=0"), u("AnimeVibe"), d("https://www.youtube.com/c/AnimeVibe"), A("https://www.youtube.com/watch?v=WDXPJWIgX-o&ab_channel=nostalgic"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
