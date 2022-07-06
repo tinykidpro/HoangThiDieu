@@ -495,7 +495,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Anime Vibe"]
+            }), "\u0110\u01A1n Gi\u1EA3n Anh Y\u00EAu Em"]
         })
     }), e(l.div, {
         animate: {
@@ -819,7 +819,7 @@ function ae() {
                         y("//www.youtube.com/embed/CwJIv4jgUlk?autoplay=1&mute=1&start=15"), u("C\u1EA3m \u01A0n V\u00EC T\u1EA5t C\u1EA3"), d("https://www.youtube.com/watch?v=5V6bHm1pklA"), A("https://www.youtube.com/watch?v=NCiKdUDdm-g&ab_channel=UCSNZOb1QqDmHakYGRLAY1vw"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Anime: () => {
-                        y("//www.youtube.com/embed/5B7Rsw0L2r8?autoplay=1&mute=1&start=0"), u("AnimeVibe"), d("https://www.youtube.com/c/AnimeVibe"), A("https://www.youtube.com/watch?v=WDXPJWIgX-o&ab_channel=nostalgic"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/CjROPg3QJ7w?autoplay=1&mute=1&start=100"), u("\u0110\u01A1n Gi\u1EA3n Anh Y\u00EAu Em"), d("https://www.youtube.com/watch?v=NlrYe__kDvE"), A("https://www.youtube.com/watch?v=qzghv7F3IlE&ab_channel=UCNzuR-0UXyAwDmllwE28g1Q"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Astral: () => {
                         y("//www.youtube.com/embed/RJcIzUNKSQk?autoplay=1&mute=1&start=1"), u("Astral Throb"), d("https://www.youtube.com/c/AstralThrob"), A("https://www.youtube.com/watch?v=UedTcufyrHc&ab_channel=NightrideFM"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
