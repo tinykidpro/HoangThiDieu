@@ -517,7 +517,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "Astral Throb"]
+            }), "H\u1EB9n m\u1ED9t mai"]
         })
     }), e(l.div, {
         animate: {
@@ -539,7 +539,7 @@ const $ = ({
                 className: "triangle",
                 src: g,
                 alt: ""
-            }), "ChillHop Music"]
+            }), "G\u00E1c l\u1EA1i \u00E2u lo"]
         })
     }), e(l.div, {
         animate: {
@@ -822,10 +822,10 @@ function ae() {
                         y("//www.youtube.com/embed/CjROPg3QJ7w?autoplay=1&mute=1&start=100"), u("\u0110\u01A1n Gi\u1EA3n Anh Y\u00EAu Em"), d("https://www.youtube.com/watch?v=NlrYe__kDvE"), A("https://www.youtube.com/watch?v=qzghv7F3IlE&ab_channel=UCNzuR-0UXyAwDmllwE28g1Q"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Astral: () => {
-                        y("//www.youtube.com/embed/RJcIzUNKSQk?autoplay=1&mute=1&start=1"), u("Astral Throb"), d("https://www.youtube.com/c/AstralThrob"), A("https://www.youtube.com/watch?v=UedTcufyrHc&ab_channel=NightrideFM"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/_ITiwPMUzho?autoplay=1&mute=1&start=5"), u("H\u1EB9n m\u1ED9t mai"), d("https://www.youtube.com/watch?v=UVmWLJVMBa8"), A("https://www.youtube.com/watch?v=c3Y2VA-VHZM&ab_channel=NamNguyen95"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     ChillHop: () => {
-                        y("//www.youtube.com/embed/iEGFFyv0MH4?autoplay=1&mute=1&start=1"), u("ChillHop Music"), d("https://www.youtube.com/c/Chillhopdotcom/videos"), A("https://www.youtube.com/watch?v=7NOSDKb0HlU&ab_channel=ChillhopMusic"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
+                        y("//www.youtube.com/embed/qlXoh54zock?autoplay=1&mute=1&start=13"), u("G\u00E1c l\u1EA1i \u00E2u lo"), d("https://www.youtube.com/watch?v=ECxVfrwwTp0"), A("https://www.youtube.com/watch?v=jPCBNH2w3QU&ab_channel=UCICL_FtWS2GuaUxj8uwU2HA"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
                     },
                     Cow: () => {
                         y("//www.youtube.com/embed/lTRiuFIWV54?autoplay=1&mute=1&start=1"), u("Chilled Cow"), d("https://www.youtube.com/c/LofiGirl"), A("https://www.youtube.com/watch?v=DWcJFNfaw9c&ab_channel=LofiGirl"), o(!0), r("unpauseScreen"), t(p), i("PlayPause2"), s("playBtn2")
